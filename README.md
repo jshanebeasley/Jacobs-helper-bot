@@ -1,19 +1,19 @@
 # Jacobs Helper Bot
 
-**Core Goal:** A running chatbot-style app for capturing and managing ideas [1]. 
-**Purpose:** Built for learning core web skills and maintaining daily commit streaks [2].
+**Core Goal:** A running chatbot-style app for capturing and managing ideas. 
+**Purpose:** Built for learning core web skills and maintaining daily commit streaks.
 
 ## 🛠️ Phase 1: Basic Features
 This project is starting as a simple CRUD app:
-* **Create:** Type an idea and save it [1].
-* **Read:** View a list of all saved ideas [1].
-* **Delete:** Remove ideas from the list [1].
+* **Create:** Type an idea and save it.
+* **Read:** View a list of all saved ideas.
+* **Delete:** Remove ideas from the list.
 
 ## 🚀 Future Upgrades
-* Tagging and searching ideas [1].
-* "AI Summarize" feature for notes [1].
-* Exporting ideas to Markdown [1].
-* **Ultimate Goal:** Automate local tasks like sorting computer files and answering system questions [1].
+* Tagging and searching ideas.
+* "AI Summarize" feature for notes.
+* Exporting ideas to Markdown.
+* **Ultimate Goal:** Automate local tasks like sorting computer files and answering system questions.
 
 ## 📄 License
-This project is hosted on a public repository and uses the MIT License [1].
+This project is hosted on a public repository and uses the MIT License.
