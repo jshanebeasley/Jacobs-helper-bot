@@ -1,4 +1,4 @@
-# Jacobs Helper Bot
+# Jacob's Helper Bot
 
 **Core Goal:** A running chatbot-style app for capturing and managing ideas. 
 **Purpose:** Built for learning core web skills, maintaining daily commit streaks, and actively using AI assistance to guide the learning and development process from start to finish.
